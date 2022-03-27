@@ -1,0 +1,1 @@
+ts.getcanvas().postscript(file="duck.eps")
